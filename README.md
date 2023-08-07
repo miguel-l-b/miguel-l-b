@@ -21,4 +21,4 @@
 <!--   <p>started 03/05/22</p> -->
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/miguel-l-b/miguel-l-b/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/miguel-l-b/miguel-l-b/blob/output/github-contribution-grid-snake.gif)
