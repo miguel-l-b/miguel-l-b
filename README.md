@@ -21,4 +21,4 @@
 <!--   <p>started 03/05/22</p> -->
 </div>
 
-![snake gif](https://github.com/miguel-l-b/miguel-l-b/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/miguel-l-b/miguel-l-b/blob/output/github-contribution-grid-snake.svg)
