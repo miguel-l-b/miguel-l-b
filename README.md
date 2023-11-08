@@ -17,7 +17,7 @@
 
   <img src="https://www.codewars.com/users/miguel-l-b/badges/small"/>  <br/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=miguel-l-b&theme=dark&date_format=j%2Fn%5B%2FY%5D&dates=CFEDFF&background=09070F"/><br/>
-  <img src="https://profile-counter.glitch.me/to-voando/count.svg"/>
+  <img src="https://profile-counter.glitch.me/miguel-l-b/count.svg"/>
 <!--   <p>started 03/05/22</p> -->
 </div>
 
