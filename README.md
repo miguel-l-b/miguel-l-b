@@ -1,10 +1,11 @@
 <div align="center">
-  :computer: Apps: &nbsp; VS Code, Insomnia, Figma
+  :computer: Apps: &nbsp; VS Code, Insomnia, Figma, Notion
   <br/>
   :mega: Courses taken: &nbsp; 
-    <a href="https://rocketseat.com.br/">Rocketseat</a>, 
-    <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>, 
-    <a href="https://www.ev.org.br/">Fundação Bradesco</a>
+    <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>, 
+    <a href="https://rocketseat.com.br">Rocketseat</a>, 
+    <a href="https://www.ev.org.br">Fundação Bradesco</a>,
+    <a href="https://cotuca.unicamp.br">COTUCA - Unicamp</a>
   <br/><br/>
   <code><img height="30" src="/img/js.svg"></code>
   <code><img height="30" src="/img/node.svg"></code>
@@ -23,7 +24,3 @@
   </a>
 
   <br/><br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-l-b&theme=dracula&bg_color=020203#gh-dark-mode-only" alt="Miguelito's Github stats" />
-  </a>
